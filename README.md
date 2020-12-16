@@ -1,10 +1,10 @@
-# AJAX con JavaScript | Leer archivo JSON y pintar datos en TABLA HTML
+# AJAX con JavaScript 
 
-Información utilizada: https://www.w3schools.com/js/js_ajax
+Documentación: https://www.w3schools.com/js/js_ajax
 
-veremos como leer un archivo externo JSON y plasmarlo en una tabla en nuestra página web, de apoco estamos subiendo el nivel en este curso de Javascript.
+1. Leer un archivo externo JSON
+2. Plasmarlo en una tabla en nuestra página web.
 
-responseText --> trae la respuesta en forma de texto
-en esta seccion traeremos en formato json.
+responseText --> trae la respuesta en forma de texto pero en esta seccion traeremos en formato json.
 
-La idea es presionar un boton para rellenar mi pagina.
+La idea es presionar un boton para rellenar mi pagina :)
